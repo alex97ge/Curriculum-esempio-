@@ -1,0 +1,21 @@
+
+body{
+	align-items: center;
+}
+.Sunset{
+	background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	width: 1000px
+	height: 100%;
+
+}
+
+.Sunset_text{
+
+	background-size: contain;
+	margin:0;
+	padding: 10px 55px 10px 65px;
+	padding:50px;
+}
